@@ -15,4 +15,4 @@ Ouvrir le fichier `index.html` dans un navigateur.
 
 ## Auteur
 Rabhi Ryham
-Manal Tahri
+
