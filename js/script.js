@@ -1,3 +1,5 @@
+// Gestion des opérations de la calculatrice
+
 let display = document.getElementById("display");
 
 function appendValue(value) {
