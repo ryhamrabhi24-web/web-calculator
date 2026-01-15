@@ -1,4 +1,5 @@
-# Mini Projet Web – Calculatrice
+<!-- Calculatrice web - Mini projet -->
+
 
 ## Description
 Ce projet est une application web simple qui permet de faire des calculs de base (addition, soustraction, multiplication, division).
